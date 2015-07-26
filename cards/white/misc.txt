@@ -7,5 +7,4 @@ Absalon
 10100111001
 'grep streg stort e mellemrum apostrof backslash W ip underscore cmsg underscore send backslash åbenparantes firkantet åbenparantes firkantet åbenparantes kolon alnum kolon firkantet lukkeparantes firkantet lukkeparantes firkantet åbenparantes firkantet åbenparantes kolon alnum kolon firkantet lukkeparantes underscore firkantet lukkeparantes firkantet lukkeparantes stjerne åbenparantes komma mellemrum stjerne firkantet åbenparantes circumflex komma firkantet lukkeparantes plus lukkeparantes kryllet åbenparantes3 kryllet lukkeparantes semikolon apostrof'
 Rejsekortet
-GT
-Dataloger på et ton
+dataloger på et ton

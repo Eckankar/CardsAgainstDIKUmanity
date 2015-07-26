@@ -6,5 +6,5 @@ Jyrki Katajainen
 Pawel Winter
 Dekan John Renner
 Ken Friis Larsen
-Root
+root
 Kjolemand

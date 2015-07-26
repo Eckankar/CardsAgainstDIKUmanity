@@ -13,3 +13,7 @@ MIPS
 x86-assembler
 CUDA
 F#
+Perl
+Python
+brainfuck
+Delphi
