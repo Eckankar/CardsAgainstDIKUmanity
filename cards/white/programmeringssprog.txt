@@ -12,3 +12,4 @@ LaTeX
 MIPS
 x86-assembler
 CUDA
+F#

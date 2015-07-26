@@ -6,3 +6,43 @@ Nej, nej, nej, du skal bruge "git ___" når du vil ___!
 Rigtige dataloger skriver deres kode i ___!
 Vi behøver ikke at købe ___, det er der altid i hjørneskabet.
 Er KEN en ___? Nej, nej, nej!
+Hej, og velkommen til ___, støttegruppen for ___.
+Er du bange for ___ Doktor Fysik!
+Det var fremdriftshornet der lød, du har ikke ___, og er smidt ud.
+Jeg studerer ___ på ___.
+Jeg krypterer altid min ___.
+___, ___ - Kan det fusioneres.
+Vi kan godt lide ___ her på Hiperfit
+Hvor mange Dataloger kræver det at ___?
+Compileren siger at der er noget galt med ___.
+Jeg fik genaflevering fordi min opgave manglede ___.
+Man skal altid have ___ med på rusturen.
+Der mangler en ___ i K@ntinen.
+Pak din ___ - Diku flytter til ___.
+Dataloger er ikke ___ de er bare ___.
+Jeres eksaminator i ___ er ___.
+Vi skal bruge ___ til at kode ___.
+Den nye API til ___ er FANTASTISK!
+Hvor kan man finde dokumentationen til ___?
+Du skal aldrig håndkøre ___.
+Det skærer gennem marv og ben at høre jer omtale ___ på den måde.
+Vi skal se "Fra ___ til ___" til spiltirsdag.
+Min datamat kører ___.
+malloc() er bedre end ___.
+"from pwn import ___"
+Jeg fik en segfault da jeg ville derefferere ___.
+Mere ___ i revyen.
+Fysikrevyen handler kun om ___.
+Heldere fuld end ___.
+Jeg skal aldrig være høj på ___ igen.
+DIKUs nye kursus: "___ for begyndere".
+Heldere 1 øl i hånden, end 10 øl på ___.
+Et ___ om dagen, holder ___ væk.
+For at citere ___: "For meget ___ gør cachen kold".
+Datalogi handler om ___, ikke om mennesker.
+$cat ___ | grep ___
+$sudo apt-get install ___
+Pensum i år er ___.
+Man kan lære om ___ på ___.
+Jeg behandler mine tømmermænd med ___.
+"Tjener! Der er en fysiker på min ___.
