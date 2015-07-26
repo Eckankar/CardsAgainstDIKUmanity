@@ -1,0 +1,3 @@
+[submodule "bbcards"]
+	path = bbcards
+	url = git@github.com:bbcards/bbcards.git

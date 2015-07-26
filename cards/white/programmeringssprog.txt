@@ -1,0 +1,14 @@
+Haskell
+Erlang
+Prolog
+shell-script
+SML
+VB
+VB.NET
+C
+C#
+C++
+LaTeX
+MIPS
+x86-assembler
+CUDA
