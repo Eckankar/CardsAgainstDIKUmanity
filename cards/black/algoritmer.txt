@@ -1,2 +1,3 @@
 ___? Kan du bevise det?
 Køretiden er O(___).
+Max ___, min ___.

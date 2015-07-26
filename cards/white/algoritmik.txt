@@ -1,0 +1,11 @@
+Cormen
+rød-sorte træer
+en max-hob
+en prioritetskø
+bogosort
+quicksort
+divide and conquer
+det grådige valg
+dynamisk programmering
+cut
+flow

@@ -3,3 +3,4 @@ colaautomaten
 opvaskemaskine
 desinficeringsmaskine
 KEN
+Amanda
