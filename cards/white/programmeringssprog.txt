@@ -17,3 +17,6 @@ Perl
 Python
 brainfuck
 Delphi
+Lisp
+Rust
+Bash
